@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World (づ๑•ᴗ•๑)づ ♡
 
-<!--
-**TiaLiliUwU/TiaLiliUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We're from the Mimus system (DID/OSDD). U can call us Mimus for short.
 
-Here are some ideas to get you started:
+Most of the time, Yosemite does the coding. Sierra often helps me with my mess, tho. We have just started learning code btw.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ Pronouns: She/Her
+- 👩🏾‍💻 We're currently working on Jogo do Bicho - Brazilian gambling game that involves betting on numbers corresponding to different animals.
+- 📝 We're currently learning python.
+- 📭 Reach us through Twitter (now X) dms.
+- 😎 Fun fact: Sometimes Sierra leaves code notes about how easy it was to fix problems I'm (Yosemite) struggling with for weeks.
+
+UwU
