@@ -2,7 +2,7 @@
 
 We're from the Mimus system (DID/OSDD). U can call us Mimus for short.
 
-Most of the time, Yosemite does the coding. Sierra often helps me with my mess, tho. We have just started learning code btw.
+Most of the time, Yosemite does the coding. Sierra often helps me with my mess, tho. We've just started learning to code btw.
 
 - ❤️ Pronouns: She/Her
 - 👩🏾‍💻 We're currently working on Jogo do Bicho - Brazilian gambling game that involves betting on numbers corresponding to different animals.
