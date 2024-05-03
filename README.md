@@ -1,6 +1,6 @@
 ### Hello World (づ๑•ᴗ•๑)づ ♡
 
-We're from the Mimus system (DID/OSDD). U can call us Mimus for short.
+We're from the Mimus System (DID). U can call us Mimus for short.
 
 Most of the time, Yosemite does the coding. Sierra often helps me with my mess, tho. We've just started learning to code btw.
 
